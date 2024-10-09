@@ -1,0 +1,62 @@
+{
+    "quotes": [
+        {
+            "id": 0,
+            "quote": "I'll let you think about it.",
+            "author_name": "Kunli Zhang",
+            "tags": [
+                "funny",
+                "interesting",
+                "tag"
+            ]
+        },
+        {
+            "id": 1,
+            "quote": "What is Australia?",
+            "author_name": "Kunli Zhang",
+            "tags": [
+                "boring",
+                "tag"
+            ]
+        }
+    ],
+    "authors": [
+        {
+            "name": "Kunli Zhang",
+            "birth_date": "6/11/2002",
+            "birth_place": "ShenZhen, China",
+            "description": "cool 505 TA",
+            "quote_ids": [
+                0,
+                1
+            ]
+        }
+    ],
+    "tags": [
+        {
+            "name": "boring",
+            "quote_ids": [
+                1
+            ]
+        },
+        {
+            "name": "funny",
+            "quote_ids": [
+                0
+            ]
+        },
+        {
+            "name": "interesting",
+            "quote_ids": [
+                0
+            ]
+        },
+        {
+            "name": "tag",
+            "quote_ids": [
+                0,
+                1
+            ]
+        }
+    ]
+}
